@@ -2,7 +2,7 @@
   "name": "Novel Writer - 小説執筆ツール",
   "short_name": "Novel Writer",
   "description": "ローカル環境で動作する小説執筆ツール。オフラインで使えます。",
-  "start_url": "./novel-writer.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1e40af",
