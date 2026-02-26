@@ -1,5 +1,5 @@
 {
-  "name": "Novel Writer - 小説執筆ツール",
+  "name": "Novel Writer",
   "short_name": "Novel Writer",
   "description": "ローカル環境で動作する小説執筆ツール。オフラインで使えます。",
   "start_url": "./index.html",
