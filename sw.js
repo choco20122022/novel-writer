@@ -1,6 +1,6 @@
 const CACHE_NAME = 'novel-writer-v1';
 const urlsToCache = [
-  './novel-writer.html',
+  './index.html',
   './manifest.json',
   'https://unpkg.com/react@18/umd/react.production.min.js',
   'https://unpkg.com/react-dom@18/umd/react-dom.production.min.js',
